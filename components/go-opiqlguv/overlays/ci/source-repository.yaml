@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: go-opiqlguv-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/go-opiqlguv
